@@ -9,21 +9,21 @@
     {
       "channel": {
         "facebook": {
-          "app_secret": "xxxxxx",
-          "page_access_token": "xxxxxx",
-          "verification_token": "xxxxxx"
+          "app_secret": "b490a26f8f9a67614297f3409334c230",
+          "page_access_token": "EAAdByHj7DgIBADkQKZAl3r3kUq45qXPyFD6OaWKZAWkYmVUUS2foXmoE1nUSFaA4Yh4oFPURHPGmkn0vmVDM9eZADoHqyNevMxTOmQ6zFDVvymDsXHfHQuHmax0rFdHGNaIBtI2ulpPXyE58glt7xmO5suoaMcGGFR74Fd8HwZDZD",
+          "verification_token": "EAAdByHj7DgIBADkQKZAl3r3kUq45qXPyFD6OaWKZAWkYmVUUS2foXmoE1nUSFaA4Yh4oFPURHPGmkn0vmVDM9eZADoHqyNevMxTOmQ6zFDVvymDsXHfHQuHmax0rFdHGNaIBtI2ulpPXyE58glt7xmO5suoaMcGGFR74Fd8HwZDZD"
         },
         "name": "slack",
         "slack": {
-          "client_id": "xxxx",
-          "client_secret": "xxxx",
-          "verification_token": "xxxx"
+          "client_id": "368484870449.374663440919",
+          "client_secret": "db5d92aa6c45d46e3cffdd00e00ebc5a",
+          "verification_token": "2u2icSoJ6huBqqbTvlp1I0c2"
         }
       },
       "conversation": {
-        "username": "xxxx",
-        "password": "xxxx",
-        "workspace_id": "xxxx"
+        "username": "9d58b4b1-bf8f-460f-bbe2-45ba9643ce4c",
+        "password": "iP1iz0oqsk5v",
+        "workspace_id": "c52dc969-a021-4103-a29f-3908259859ad"
       },
       "name": "xxxx"
     }
